@@ -30,7 +30,7 @@ const config = {
     'MySQL',
     'Git',
     'CSS',
-    'Bootstrap'
+    'Bootstrap',
     'Ajax',
   ],
   education: [
