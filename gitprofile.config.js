@@ -2,8 +2,8 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
+    username: 'MahediHasanBijoy', // Your GitHub org/user name. (Required)
+    sortBy: 'updated', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
@@ -11,82 +11,49 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    facebook: '',
+    linkedin: 'md-mahedi-hasan',
+    twitter: '',
+    facebook: 'mahedihasan.bijoy',
     instagram: '',
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'arifszn',
-    website: 'https://arifszn.github.io',
+    dev: '',
+    website: 'https://mahedihasanbijoy.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'bijoycse2014@gmail.com',
   },
   skills: [
     'PHP',
     'Laravel',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
     'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
-    'Bootstrap',
-  ],
-  experiences: [
-    {
-      company: 'Monstarlab Bangladesh',
-      position: 'Backend Engineer II',
-      from: 'September 2021',
-      to: 'Present',
-    },
-    {
-      company: 'My Offer 360 Degree',
-      position: 'Web Application Developer',
-      from: 'July 2019',
-      to: 'August 2021',
-    },
+    'Bootstrap'
+    'Ajax',
   ],
   education: [
     {
-      institution: 'American International University-Bangladesh',
+      institution: 'Sylhet Engineering College',
       degree: 'Bachelor of Science',
       from: '2015',
-      to: '2019',
+      to: '2020',
     },
     {
-      institution: 'Cantonment College, Jessore',
+      institution: 'Adamjee Cantonment College, Dhaka',
       degree: 'Higher Secondary Certificate (HSC)',
-      from: '2012',
-      to: '2014',
+      from: '2011',
+      to: '2013',
     },
     {
-      institution: 'Chowgacha Shahadat Pilot High School',
+      institution: 'Muslim Modern Academy',
       degree: 'Secondary School Certificate (SSC)',
-      from: '2007',
-      to: '2012',
+      from: '2000',
+      to: '2010',
     },
   ],
-  // Display blog posts from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn',
-    limit: 3, // How many posts to display. Max is 10.
-  },
-  googleAnalytics: {
-    // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-    id: 'G-WLLB5E14M6', // Please remove this and use your own tag id or keep it empty
-  },
-  hotjar: {
-    id: '2617601', //  Please remove this and use your own id or keep it empty
-    snippetVersion: 6,
-  },
+  
   themeConfig: {
     defaultTheme: 'corporate',
 
