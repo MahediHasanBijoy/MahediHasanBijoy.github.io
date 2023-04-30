@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'md-mahedi-hasan',
+    linkedin: 'md-mahedi-hasan-b50a481a8',
     twitter: '',
     facebook: 'mahedihasan.bijoy',
     instagram: '',
